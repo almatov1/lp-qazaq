@@ -1,0 +1,90 @@
+        body {
+    		font-family: 'Open Sans Condensed', sans-serif;
+    		margin-top: 25px;
+    	}
+
+    	.btn-info, .dropdown-item {
+    		font-size: 20px !important;
+    	}
+
+    	#c1 {
+    		height: 50px;
+    		text-align: center;
+    		font-size: 30px !important;
+    		margin-bottom: 25px;
+    	}
+    	#c2 {
+    		height: 400px;
+    		background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://pin.dekhnews.com/wp-content/uploads/2019/09/nature-aesthetic-wallpaper.jpg);
+    		background-position: center;
+    		background-repeat: no-repeat;
+		    background-size: cover;
+		    color: white;
+		    font-size: 46px;
+		    text-align: center;
+		    line-height: 400px;
+    	}
+
+    	#c3 {
+    		margin-top: 100px;
+    		text-align: center;
+    		margin-bottom: 100px;
+    	}
+
+    	#c3 h4 {
+    		margin-top: 15px;
+    	}
+
+    	#c3 i {
+    		color: #1f9bcf;
+    		font-size: 61px;
+    	}
+
+    	#c3 p {
+    		font-size: 18px;
+    	}
+
+    	#c4 {
+    		height: 400px;
+    		background-color: #f8f9fa!important;
+    		text-align: left;
+    	}
+
+    	#c4 h1 {
+    		margin-top: 50px;
+    		margin-left: 25px;
+    	}
+
+    	#c4 p {
+    		font-size: 18px;
+    		margin-left: 25px;
+    	}
+
+    	.imgcon {
+    		height: 400px;
+    		background-position: center;
+    		background-repeat: no-repeat;
+		    background-size: cover;
+    	}
+
+    	#img1 {
+    		background-image: url(https://www.raconteur.net/wp-content/uploads/2016/11/business-languages-1.jpg);
+    	}
+
+    	#img2 {
+    		background-image: url(https://astana.gov.kz/data/media/news/images/7316d815a9e77693842b2114225ea0c0.jpg);
+    	}
+
+    	#img3 {
+    		background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6d/Grey_Wolves_Gokturk_Flag.svg);
+    	}
+
+    	#c5 {
+    		margin-top: 100px;
+    		text-align: center;
+    		margin-bottom: 100px;
+    	}
+
+    	#c5 h4 {
+    		margin-top: 15px;
+    	}

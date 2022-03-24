@@ -1,0 +1,35 @@
+	body {
+    		font-family: 'Open Sans Condensed', sans-serif;
+    		margin-top: 25px;
+    	}
+
+    	.btn-info, .dropdown-item {
+    		font-size: 20px !important;
+    	}
+
+    	#c1 {
+    		height: 50px;
+    		text-align: center;
+    		font-size: 30px !important;
+    		margin-bottom: 25px;
+    	}
+    	#c2 {
+    		height: 400px;
+    		background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://pin.dekhnews.com/wp-content/uploads/2019/09/nature-aesthetic-wallpaper.jpg);
+    		background-position: center;
+    		background-repeat: no-repeat;
+		    background-size: cover;
+		    color: white;
+		    font-size: 46px;
+		    text-align: center;
+		    line-height: 400px;
+    	}
+
+    	#c3 {
+    		margin-top: 100px;
+    		margin-bottom: 100px;
+    	}
+
+    	#c3 p {
+    		font-size: 22px;
+    	}
